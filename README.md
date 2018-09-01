@@ -11,6 +11,8 @@
 
 目前我只设立了三个文件夹，分别是：
 
-[乐理](..\\乐理)
-[舞蹈元素](..\\舞蹈元素)
-[身体开发与保护](..\\身体开发与保护)。
+[乐理](https://github.com/GaigeY/Hip-hop-Dancing/tree/master/乐理)
+
+[舞蹈元素](https://github.com/GaigeY/Hip-hop-Dancing/tree/master/舞蹈元素)
+
+[身体开发与保护](https://github.com/GaigeY/Hip-hop-Dancing/tree/master/身体开发与保护)。
