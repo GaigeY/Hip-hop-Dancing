@@ -1,6 +1,16 @@
 # Hip-hop Dancing
-Hip-hop dance is my favorite dance.
 
-During my dancing live time, I would take progress, might get hurt, and win honor and go further.
+舞蹈是优美而孤独的。
 
-This repository is built for my understand of hip-hop dance, and something related.
+在舞蹈这条路前行的过程中，每个舞者都会有自己的汗水与经验。我把我自己的经验、资料上传到Github，并将它开源。希望每一个造访的舞者都会有所收获。
+
+生命不息奋斗不止。
+
+---
+## 目录介绍
+
+目前我只设立了三个文件夹，分别是：
+
+[乐理](..\\乐理)
+[舞蹈元素](..\\舞蹈元素)
+[身体开发与保护](..\\身体开发与保护)。
