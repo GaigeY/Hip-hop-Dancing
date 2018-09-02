@@ -40,6 +40,8 @@
 
 > 视频链接来自Youtube，大陆需要代理访问。
 
+> Github不支持Markdown文件video embed，可以直接点击代码内超链接访问。下载阅读会更方便哦~
+
 ## 6、 Criss cross
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eg-3ybiL6UI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
